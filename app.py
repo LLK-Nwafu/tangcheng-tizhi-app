@@ -4,7 +4,7 @@ import json
 
 st.set_page_config(page_title="汤臣倍健体质测试", layout="centered")
 st.title("汤臣倍健体质测试")
-st.image("https://your-logo-url.com/logo.png", width=120)
+st.image("logo.png", width=160)
 st.markdown("请根据您的日常感觉选择每题的答案：")
 
 tizhi_types = [
